@@ -1,6 +1,6 @@
 // IMPORTANT: Replace the placeholder below with your WhatsApp number, including country code, digits only.
 // Example for India: 919876543210 (do not include +, spaces or dashes).
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "919815751852";
 
 // Optional contact details shown in the contact section.
 const CONTACT_PHONE = "Add your phone number";
